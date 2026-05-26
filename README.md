@@ -28,7 +28,7 @@ I am actively seeking cybersecurity internships in IAM, identity security, or se
 
 ---
 
-## Identity & Access Management (IAM) Projects
+## 📁 Featured Projects
 
 | Workflow Project | Proof | Purpose | Stack | Status |
 |---|---|---|---|---| 
