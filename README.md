@@ -20,11 +20,7 @@
 
 Hey, my name is David Saulsberry. I hold the CompTIA Security+, Microsoft Identity and Access Administrator (SC-300), and SailPoint Identity Security Leader certifications. I have hands-on experience with Microsoft Entra ID (Azure AD), Active Directory, and CyberArk, along with a strong understanding of IAM concepts including RBAC, ABAC, MFA, SSO, and identity federation protocols such as SAML, OAuth, and OpenID Connect.
 
-I currently serve as a Cybersecurity Club Ambassador (Representative), where I support cybersecurity initiatives, student engagement, and hands-on learning opportunities.
-
 The projects in this portfolio are designed to reflect real-world IAM and cybersecurity workflows, demonstrating skills in identity lifecycle management, access governance, privileged access management, automation, and secure access control across enterprise environments.
-
-I am actively seeking cybersecurity internships in IAM, identity security, or security operations.
 
 ---
 
