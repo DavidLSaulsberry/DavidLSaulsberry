@@ -31,6 +31,7 @@ The projects in this portfolio are designed to reflect real-world IAM and cybers
 | [**Active Directory Detection & Monitoring Lab**](https://github.com/DavidLSaulsberry/Active-Directory-Cybersecurity-Lab) | Screenshots Included | Built a multi-VM enterprise lab using Active Directory, Windows Server, Kali Linux, Splunk, and Sysmon to simulate attacks and investigate authentication activity. Performed brute-force simulations and analyzed Windows Event IDs (4624/4625) for security monitoring and detection. | Active Directory · Splunk · Sysmon · Kali Linux · PowerShell · VirtualBox | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
 | [**CyberArk Privileged Access Management (PAM) Lab**](https://github.com/DavidLSaulsberry/CyberArk-Privileged-Access-Management-Lab/blob/main/README.md) | Screenshots Included | Configured a CyberArk PAM lab environment including Vault, CPM, PSM, and PVWA to understand privileged access security, credential management, and privileged session workflows in enterprise environments. | CyberArk · PAM · Active Directory · Windows Server · VMware | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
 | [**Microsoft Entra ID Identity & Access Lab**](https://github.com/DavidLSaulsberry/Microsoft-Entra-ID-Identity-Access-Lab) | Screenshots Included | Built a cloud identity lab using Microsoft Entra ID and Terraform to automate creation and management of 25 users, simulating enterprise identity lifecycle (JML: Joiner, Mover, Leaver) workflows. Configured authentication and access policies aligned with IAM best practices, implemented Conditional Access policies, and enforced Role-Based Access Control (RBAC) by assigning users to functional roles such as IT Support and Finance to maintain least-privilege access in a controlled cloud environment. | Microsoft Entra ID · Terraform · MFA · Conditional Access · RBAC · Identity Lifecycle (JML) | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
+| [**ServiceNow Incident Management Lab**](https://github.com/DavidLSaulsberry/ServiceNow-Incident-Management-Lab) | Screenshots Included | Simulated an enterprise IT support workflow by creating, prioritizing, updating, and resolving incident tickets while documenting troubleshooting steps and resolution notes using the ServiceNow platform. | ServiceNow · ITSM · Incident Management · Ticket Lifecycle · Documentation | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
 
 > **Focus Area:** Identity & Access Management (IAM), privileged access security, Active Directory, and hybrid identity environments. Projects demonstrate hands-on experience with authentication, RBAC, PAM, identity monitoring, and enterprise identity security workflows.
 ---
@@ -50,6 +51,17 @@ The projects in this portfolio are designed to reflect real-world IAM and cybers
 [![View Certificate](https://img.shields.io/badge/View_Certificate-lightgrey?style=flat-square)](https://www.credly.com/badges/97ac62e3-7dbe-43ad-998a-1f0d66bf9f83/linked_in_profile)
 
 ---
+---
+
+## 🌟 Miscellaneous
+
+While my primary focus is Identity & Access Management (IAM), I also participate in leadership programs, innovation challenges, and technical presentations that strengthen my communication, collaboration, and problem-solving skills.
+
+| Leadership & Professional Development | 
+|---|
+| Cyber Security Club Ambassador | 
+| Capital One Launchpad: Legacy and Leadership Program | 
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/david-saulsberry/">Connect on LinkedIn</a>
